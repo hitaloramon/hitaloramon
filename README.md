@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitaloramon&label=Profile%20views&color=0e75b6&style=flat" alt="hitaloramon" /> </p>
 
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3542?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitaloramon" alt="hitaloramon" /></a> </p>
 
 - 🔭 I’m currently working on [NextCP](https://github.com/hitaloramon/nextcp)
